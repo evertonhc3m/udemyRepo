@@ -1,0 +1,164 @@
+
+ - Esp32
+	-> How to Setup ESP-IDF in Linux and Windows || ESP32 Getting Started
+		https://www.youtube.com/watch?v=h9JA7V5tHsA
+		
+	
+	-> ESP32 WEBSERVER using AP PART 1 || ESP -- IDF
+		https://www.youtube.com/watch?v=FEOJwTwqNLU
+		
+	-> ESP32 WEBSERVER using AP PART 2 || ESP -- IDF
+		https://www.youtube.com/watch?v=wVtbDPy4R3c
+		
+	-> ESP32 WEBSERVER using AP PART 3 || ESP -- IDF
+		https://www.youtube.com/watch?v=PiBMayUaXjo
+		
+	-> ESP32 WEBSERVER using AP PART 4 || ESP -- IDF
+		https://www.youtube.com/watch?v=8nGoSEtkUSI	
+	
+	-> ESP32 #2. How to use UART in ESP32 || Espressif IDE
+		https://www.youtube.com/watch?v=15zXAhsVx0k
+		
+	-> ESP32 #3. How to use I2C in ESP32 || LCD1602 || Espressif IDE
+		https://www.youtube.com/watch?v=DPmMeOnrXdg
+		
+--------------------------------------------------------------------------------------------------------------		
+-Playlist input capture PWM
+* STM32 TUTORIAL SERIES PART 3 | Input Capture | Frequency measurement
+	https://www.youtube.com/watch?v=kjHbhilRAOU
+	
+* STM32 TIMERS #4. INPUT CAPTURE || Frequency and Width	
+	https://www.youtube.com/watch?v=rh4pdNWKLJY
+	
+* 15 Frequency Measure with Timer Input Capture by using STM32F4 Nucleo board	
+	https://www.youtube.com/watch?v=rbZPKrsxHKg
+	
+* Lecture 14. Timer Input Capture	
+	https://www.youtube.com/watch?v=2FoZ7kHOdT0
+	
+* STM32 - CANAIS CCP - Modo Input Capture: MEDIDOR DE PARÂMETROS
+	https://www.youtube.com/watch?v=7CKCTarlr80
+	
+* STM32 - CANAIS CCP - Modo Input Capture: DIFERENÇA DE BORDAS	
+	https://www.youtube.com/watch?v=4_X_E0I_Hgk
+	
+* STM32 - CANAIS CPP - Modo Input Capture: MEDIDOR DE PERÍODO	
+	https://www.youtube.com/watch?v=8CdbIsUMeo8&list=PL3Ql6TmMElKuE6JzI1frNpcGq7PmA53Bk
+	
+--------------------------------------------------------------------------------------------------------------
+	
+	- Controller Tech (Timer)
+	
+	-> STM32 TIMERS #1. PWM Output || DMA
+		https://www.youtube.com/watch?v=OwlfFp8fPN0
+		
+	-> STM32 TIMERS #2. PWM Input
+		https://www.youtube.com/watch?v=P6211ic2N_s
+		
+	-> STM32 TIMERS #3. ENCODER MODE || F103C8	
+		https://www.youtube.com/watch?v=xqzWQgpqHmI
+		
+	-> STM32 TIMERS #4. INPUT CAPTURE || Frequency and Width	
+		https://www.youtube.com/watch?v=rh4pdNWKLJY
+
+	-> INPUT CAPTURE using DMA || Measure High Frequencies and Low Width
+		https://www.youtube.com/watch?v=qqzZ9C0umQ4
+		
+--------------------------------------------------------------------------------------------------------------
+	
+	- Sensor de Temperatura interno
+	
+	-> 33. STM32CubeIDE internal temperature sensor with STM32F103C8T6
+		https://www.youtube.com/watch?v=OvA_g4ez-zs
+		
+	-> STM32 ADC Conversion Time/Frequency Calculation || Internal Temp Sensor
+		https://www.youtube.com/watch?v=Jqq8rJNUwJg&t=30s
+		
+	-> STM32 Internal Temperature Sensor (Full Guide and Library)
+		https://www.youtube.com/watch?v=IWcmThD5mx8
+		
+--------------------------------------------------------------------------------------------------------------
+	-> STM32 : STM32F103C8T6 | Bloqueio de leitura da FLASH - proteção contra tentativa de clonar STM32
+		https://www.youtube.com/watch?v=wHxHnztGx1g
+		
+	-> STM32 : STM32F103C8T6 | Vbat e domínio de backup (backup domain)
+		https://www.youtube.com/watch?v=n5DKzXLs2q4&t=363s
+		
+--------------------------------------------------------------------------------------------------------------
+	- STM32 FreeRTOS
+	
+	-> Introduction to Free RTOS in STM32 || CubeIDE || Tasks || priorities
+		https://www.youtube.com/watch?v=muOL9SH0p9g
+		
+	-> FreeRTOS Tutorial 2.0 || TASK Operations || STM32 || CUBEIDE	
+		https://www.youtube.com/watch?v=k_fHypOMk9s
+		
+	-> FreeRTOS Tutorial 3.0 || Binary Semaphore || STM32 || CMSIS || CUBEIDE
+		https://www.youtube.com/watch?v=SsBgNFEpfFE&t=22s
+		
+	-> FreeRTOS Tutorial 4 || Counting Semaphore || STM32 || NO CMSIS
+		https://www.youtube.com/watch?v=piC_aYENyxo
+		
+	-> FreeRTOS Tutorial 5 || Simple QUEUE || STM32 || NO CMSIS || CubeIDE 
+		https://www.youtube.com/watch?v=J6J8EUcw6qU	
+		
+	-> FreeRTOS Tutorial 6 || Structured Queue || Memory Allocation || STM32
+		https://www.youtube.com/watch?v=49Q4p4ARpng
+			
+	-> FreeRTOS Tutorial 7 || MUTEX || STM32 || CubeIDE
+		https://www.youtube.com/watch?v=4NtB1HU3sbQ
+		
+	-> FreeRTOS Tutorial 7.1 || MUTEX vs Bin Semaphore || Priority inversion || Priority Inheritance
+		https://www.youtube.com/watch?v=sQxI0lQ01Ag
+		
+	-> Store data into SD CARD || FreeRTOS || STM32 || ADC || DHT
+		https://www.youtube.com/watch?v=acXPelSv2B4
+		
+	-> FreeRTOS Tutorial 8 || Software Timers || STM32 || W/O CMSIS
+		https://www.youtube.com/watch?v=9H6vhgxQTTk
+		
+	-> 75. STM32CubeIDE FreeRTOS Simple LED Blink with STM32F103C8T6
+		https://www.youtube.com/watch?v=GDLeBBvOTmo&t=353s
+		
+	-> Getting Started With STM32 and Nucleo Part 3: FreeRTOS - How To Run Multiple Threads w/ CMSIS-RTOS
+		https://www.youtube.com/watch?v=OPrcpbKNSjU&t=33s
+		
+---------------------------------------- esp32 ---------------------------------------------------------------
+		
+	-> Introduction to RTOS Part 1 - What is a Real-Time Operating System (RTOS)? | Digi-Key Electronics
+		https://www.youtube.com/watch?v=F321087yYy4&t=10s
+		
+	-> Introduction to RTOS Part 2 - Getting Started with FreeRTOS | Digi-Key Electronics
+		https://www.youtube.com/watch?v=JIr7Xm_riRs
+		
+	-> Introduction to RTOS Part 3 - Task Scheduling | Digi-Key Electronics
+		https://www.youtube.com/watch?v=95yUbClyf3E
+		
+	-> Introduction to RTOS Part 4 - Memory Management | Digi-Key Electronics
+		https://www.youtube.com/watch?v=Qske3yZRW5I
+		
+	-> Introduction to RTOS Part 5 - Queue | Digi-Key Electronics
+		https://www.youtube.com/watch?v=pHJ3lxOoWeI
+			
+	-> Introduction to RTOS Part 6 - Mutex | Digi-Key Electronics
+		https://www.youtube.com/watch?v=I55auRpbiTs
+		
+	-> Introduction to RTOS Part 7 - Semaphore | Digi-Key Electronics
+		https://www.youtube.com/watch?v=5JcMtbA9QEE
+		
+	-> Introduction to RTOS Part 8 - Software Timer | Digi-Key Electronics
+		https://www.youtube.com/watch?v=b1f1Iex0Tso
+		
+	-> Introduction to RTOS Part 9 - Hardware Interrupts | Digi-Key Electronics
+		https://www.youtube.com/watch?v=qsflCf6ahXU
+		
+	-> Introduction to RTOS Part 10 - Deadlock and Starvation | Digi-Key Electronics
+		https://www.youtube.com/watch?v=hRsWi4HIENc
+		
+	-> Introduction to RTOS Part 11 - Priority Inversion | Digi-Key Electronics
+		https://www.youtube.com/watch?v=C2xKhxROmhA
+		
+	-> Introduction to RTOS Part 12 - Multicore Systems | Digi-Key Electronics
+		https://www.youtube.com/watch?v=LPSHUcH5aQc
+		
+--------------------------------------------------------------------------------------------------------------
