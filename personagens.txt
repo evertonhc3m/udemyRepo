@@ -2,3 +2,7 @@ personagem teste 1
 personagem teste 2
 personagem teste 3
 personagem teste 4
+personagem teste 5
+personagem teste 6
+personagem teste 7
+personagem teste 8
